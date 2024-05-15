@@ -21,7 +21,7 @@ For example, when generating the drum stem, the target spectrogram was the origi
 
 Example of a spectrogram pair for generating the drum stem:
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 
 ## Training
@@ -34,7 +34,7 @@ Results were good only for generating the drum stem. For both experiments, the m
 
 For the drums, on epoch 95 the model output was without artifacts. Here is an example of input, output and target spectrograms for drum generation:
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 
 
